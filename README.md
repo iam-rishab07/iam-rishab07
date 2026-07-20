@@ -1,9 +1,4 @@
-<!--
-  BANNER — replace this line with your own 1200×300–ish banner image.
-  Keep it minimal: name, one line of positioning, subtle background. No stock gradients.
-  Example once you have it:
-  ![Rishi Banner](https://github.com/iam-rishab07/iam-rishab07/raw/main/banner.png)
--->
+<div align="center"> <img src="https://github.com/iam-rishab07/iam-rishab07/raw/main/github-banner.png" width="100%" alt="Vrushabh Gorivale — GitHub Banner">
 
 <div align="center">
 
