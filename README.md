@@ -16,7 +16,7 @@ Currently sharpening skills in distributed systems and cloud-native architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrushabh07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vrushabh-gorivale-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrushabhgorivale28@gmail.com)
 
 </div>
 
@@ -25,8 +25,8 @@ Currently sharpening skills in distributed systems and cloud-native architecture
 ## About Me
 
 ```
-Education      : M.Sc. Computer Science (Final Year)
-Current Role   : Software Engineer Intern @ BasketHunt Pvt. Ltd.
+Education      : M.Sc. Computer Science (Expected 2028)
+Recent Role   : Software Engineer Intern @ BasketHunt Pvt. Ltd. (June 2026 - July 2026)
 Focus          : Backend Engineering • Distributed Systems • Cloud
 Building       : Scalable, concurrency-safe backend services
 Open To        : Backend roles • Open source • Systems design discussions
@@ -80,7 +80,7 @@ Hyperlocal civic engagement platform for surfacing and voicing neighborhood-leve
 
 ## Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrushabhgorivale28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrushabh07)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-rishab07)
 
