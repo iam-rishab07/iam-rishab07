@@ -21,7 +21,7 @@ Currently sharpening skills in distributed systems and cloud-native architecture
 
 ```
 Education      : M.Sc. Computer Science (Expected 2028)
-Recent Role   : Software Engineer Intern @ BasketHunt Pvt. Ltd. (June 2026 - July 2026)
+Recent Role    : Software Engineer Intern @ BasketHunt Pvt. Ltd. (June 2026 - July 2026)
 Focus          : Backend Engineering • Distributed Systems • Cloud
 Building       : Scalable, concurrency-safe backend services
 Open To        : Backend roles • Open source • Systems design discussions
