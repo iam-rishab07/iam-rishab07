@@ -152,7 +152,7 @@ https://github.com/iam-rishab07/Geo-Voice
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Graph (last 30 Days)
 
 <p align="center">
 
